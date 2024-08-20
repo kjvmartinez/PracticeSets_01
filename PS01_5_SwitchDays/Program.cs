@@ -10,6 +10,8 @@ namespace PS01_5_SwitchDays
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test4");
+            Console.ReadKey();
         }
     }
 }

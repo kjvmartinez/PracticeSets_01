@@ -10,6 +10,8 @@ namespace PracticeSets_01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
+            Console.ReadKey();
         }
     }
 }

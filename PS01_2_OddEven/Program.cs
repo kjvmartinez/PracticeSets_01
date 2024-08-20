@@ -10,6 +10,8 @@ namespace PS01_2_OddEven
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test1");
+            Console.ReadKey();
         }
     }
 }

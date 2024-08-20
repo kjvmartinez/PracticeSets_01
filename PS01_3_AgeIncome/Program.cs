@@ -10,6 +10,7 @@ namespace PS01_3_AgeIncome
     {
         static void Main(string[] args)
         {
+           
         }
     }
 }

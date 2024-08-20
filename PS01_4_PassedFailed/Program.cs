@@ -10,6 +10,7 @@ namespace PS01_4_PassedFailed
     {
         static void Main(string[] args)
         {
+         
         }
     }
 }
